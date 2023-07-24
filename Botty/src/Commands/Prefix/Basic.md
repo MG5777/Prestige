@@ -1,3 +1,3 @@
 # Basic Commands
 
-### !example | iekwujgbkssgezeg
+### !example | iekwujgbkssgeze
