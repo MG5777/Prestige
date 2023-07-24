@@ -1,0 +1,3 @@
+# Fun Commands
+
+**/test** -> siujdgbhdiGS
